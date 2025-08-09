@@ -1,0 +1,4 @@
+[submodule "imokenp-hardware-design"]
+	path = imokenp-hardware-design
+	url = git@github.com:yumenegi/imokenp-hardware-design.git
+	branch = main
